@@ -1,0 +1,101 @@
+{
+    "fulfillment": {
+        "settings": {
+            "default": {
+                "url": ""
+            },
+            "channels": []
+        },
+        "actions": [
+            {
+                "state": "/newNode_2",
+                "color": "#FFFFFF",
+                "action": "Шаг 3",
+                "collapsed": false
+            },
+            {
+                "state": "/newNode_3",
+                "color": "#FFFFFF",
+                "action": "Шаг 4",
+                "collapsed": true
+            },
+            {
+                "state": "/newNode_4",
+                "color": "#FFFFFF",
+                "action": "Шаг 5",
+                "collapsed": true
+            },
+            {
+                "state": "/newNode_5",
+                "color": "#FFFFFF",
+                "action": "Шаг 6",
+                "collapsed": true
+            },
+            {
+                "state": "/newNode_6",
+                "color": "#FFFFFF",
+                "action": "Шаг 7",
+                "collapsed": false
+            },
+            {
+                "state": "/newNode_7",
+                "color": "#FFFFFF",
+                "action": "Шаг 8",
+                "collapsed": false
+            },
+            {
+                "state": "/newNode_10",
+                "color": "#FFFFFF",
+                "action": "Шаг 11",
+                "collapsed": false
+            },
+            {
+                "state": "/newNode_13",
+                "color": "#FFFFFF",
+                "action": "Шаг 14",
+                "collapsed": true
+            },
+            {
+                "state": "/newNode_14",
+                "color": "#FFFFFF",
+                "action": "Шаг 15",
+                "collapsed": false
+            },
+            {
+                "state": "/newNode_15",
+                "color": "#FFFFFF",
+                "action": "Шаг 16",
+                "collapsed": false
+            },
+            {
+                "state": "/newNode_16",
+                "color": "#FFFFFF",
+                "action": "Шаг 17"
+            },
+            {
+                "state": "/newNode_17",
+                "color": "#FFFFFF",
+                "action": "Шаг 18",
+                "collapsed": false
+            }
+        ],
+        "hasTransferToOperatorBlock": "true",
+        "groups": [],
+        "conditions": {},
+        "arrayActions": {},
+        "startSettings": {
+            "blockId": "/newNode_14",
+            "newLogicCatchAll": false
+        }
+    },
+    "catchAll": {
+        "phrases": [
+            "Извините, непонятно"
+        ],
+        "transferToOperator": {
+            "enable": true,
+            "messageToUser": "Вы будете переведены на оператора"
+        },
+        "globalEventNoMatchTransition": "/newNode_2"
+    }
+}

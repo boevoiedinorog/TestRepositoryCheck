@@ -1,0 +1,21 @@
+{
+  "project" : {
+    "id" : "moj_graph_dlya_salut-699328-qtd",
+    "name" : "moj_graph_dlya_salut-699328-qtd",
+    "folder" : "/jaicp"
+  },
+  "settings" : {
+    "language" : "ru",
+    "spellingCorrection" : false,
+    "classificationAlgorithm" : "sts",
+    "timezone" : "UTC",
+    "extendedSettings" : {
+      "tokenizerEngine" : "default"
+    },
+    "businessShared" : false,
+    "business" : true
+  },
+  "intents" : [ ],
+  "entities" : [ ],
+  "enabledSystemEntities" : [ ]
+}

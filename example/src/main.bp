@@ -1,0 +1,85 @@
+{
+  "positions" : [ {
+    "id" : "/newNode_14",
+    "name" : "col#0",
+    "boundsTo" : "",
+    "title" : "События",
+    "actionTitles" : [ null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_2",
+    "name" : "col#1",
+    "actionTitles" : [ "Текст", null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_3",
+    "name" : "col#2",
+    "actionTitles" : [ "Текст", null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_7",
+    "name" : "col#2",
+    "actionTitles" : [ "Текст", null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_4",
+    "name" : "col#3",
+    "actionTitles" : [ "Текст", null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_5",
+    "name" : "col#3",
+    "actionTitles" : [ "Текст", null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_10",
+    "name" : "col#3",
+    "actionTitles" : [ "Текст", null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_16",
+    "name" : "col#3",
+    "boundsTo" : "",
+    "title" : "Ввод числа",
+    "actionTitles" : [ null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_17",
+    "name" : "col#4",
+    "boundsTo" : "",
+    "title" : "Ввод текста",
+    "actionTitles" : [ null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_13",
+    "name" : "col#4",
+    "actionTitles" : [ "Текст", null ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_6",
+    "name" : "col#4",
+    "boundsTo" : "",
+    "title" : "Перевод на оператора",
+    "actionTitles" : [ ],
+    "x" : 0,
+    "y" : 0
+  }, {
+    "id" : "/newNode_15",
+    "name" : "col#5",
+    "boundsTo" : "",
+    "title" : "Перевод на оператора",
+    "actionTitles" : [ ],
+    "x" : 0,
+    "y" : 0
+  } ]
+}
